@@ -1,0 +1,70 @@
+
+sin(A-B)?; 
+cosAcosB+sinAsinB;
+sinAcosB+sinBcosA;
+sinAcosB-sinBcosA;
+sinAsinB-cosAcosB;
+sinAcosB-sinBcosA;
+|
+cos3A?;
+cos^3(A)-sin^3(A);
+4cos^3(A)-3cosA;
+sin^3(A)-4sinA;
+3cos^4(A)-4cosA;
+4cos^3(A)-3cosA;
+|
+cos^2(A)-sin^2(A)?;
+sin2A;
+tan2A;
+cos2A;
+cot2A;
+cos2A;
+|
+2sinAsinB?;
+cos(A*B)+cos(A/B);
+cos(A+B)+cos(A-B);
+cos(A+B)/cos(A-B);
+cos(A-B)-cos(A+B);
+cos(A-B)-cos(A+B);
+|
+cos(A-B)?;
+sinAcosB-cosAsinB;
+cosAcosB-sinAsinB;
+cosAcosB+sinAsinB;
+sinAcosB+cosAsinB;
+cosAcosB+sinAsinB;
+|
+cosA-cosB?;
+2sin(A+B)/2 cos(A-B)/2;
+2cos(A+B)/2 cos(A-B)/2;
+2cos(A+B)/2 sin(A-B)/2;
+2sin(A+B)/2 sin(A-B)/2;
+2sin(A+B)/2 sin(A-B)/2;
+|
+2sinAcosA?;
+cos(A+B);
+sin(A+B);
+cos2A;
+sin2A;
+sin2A;
+|
+tan(A/2)?;
+2tan(A)/1-tan^2(A);
+2sinAcosA;
+(cos(A)-1/cos(A)+1)^½;
+(tan(A))/2;
+(cos(A)-1/cos(A)+1)^½;
+|
+cot2A?;
+cot^2(A)-1/2cotA;
+2tanA/1-tan^2(A);
+2cotA/cot^2(A);
+cotAcotB-1/cotB-cotA;
+cot^2(A)-1/2cotA;
+|
+ข้อใดไม่ใช่ cos2A?;
+1-2sin^2A;
+1+2tan^2A;
+2cos^2A-1;
+cos^2A-sin^2A;
+1+2tan^2A;
